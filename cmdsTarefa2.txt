@@ -1,0 +1,85 @@
+    1  git clone https://github.com/DiogoGamelas/L12025-Teste03.git
+    2  git config --global credential.helper store
+    3  git clone https://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@github.com/DiogoGameLas/LI2025-Teste03.git
+    4  cd LI2025-Teste03
+    5  mkdir A133269
+    6  cat readme.md
+    7  cat > README.md <<
+    8  cd A133269
+    9  cat readme.md
+   10  echo "Teste de LI 2025/2026" > README.md
+   11  cat README.md
+   12  cd ..
+   13  git commit -m "2ª tarefa concluída"
+   14  git push origin main
+   15  git commit -m "2ª tarefa concluída"
+   16  git commit -m "2 tarefa concluída"
+   17  git add .
+   18  git commit -m "2 tarefa concluída"
+   19  git push origin main
+   20  cd pd
+   21  cd ..
+   22  history > meuscomandoslocais.txt
+   23  cat meuscomandoslocais.txt 
+   24  git push origin main 
+   25  ls
+   26  git push origin main
+   27  ls
+   28  cd LI2025-Teste03/
+   29  ls
+   30  history > meusComandosAzure.txt
+   31  cat meusComandosAzure.txt 
+   32  git add . && git commit -m "history azure" && git push origin main 
+   33  git pull origin main 
+   34  git add . && git commit -m "history azure" && git push origin main
+   35  git clone https://github.com/DiogoGamelas/LI2025-Teste03.git
+   36  ls
+   37  git clone https://github.com/DiogoGamelas/LI2025-Teste04
+   38  ls
+   39  cd I2025-Teste04
+   40  cd LI2025-Teste04
+   41  mkdir js
+   42  mkdir css
+   43  cd js
+   44  git push origin main
+   45  git config --global user.gmail "diogo.gamelas@ua.pt"
+   46  git config --global user.main "DiogoGamelas"
+   47  git push origin main
+   48  cd ..
+   49  git push origin main
+   50  git config --global user.email "diogo.gamelas@ua.pt"
+   51  git config --global user.name "DiogoGamelas"
+   52  history > cmdsTarefa2.txt
+   53  cd js
+   54  echo "//ficheiro de script" > script.js
+   55  New-Item -Path "..\css\style.css" -ItemType File
+   56  touch ../css/style.css
+   57  cd ..
+   58  ls
+   59  cd css
+   60  ls
+   61  git add.
+   62  git add .
+   63  git commit -m "2ª tarefa concluída: pastas js e css criadas."
+   64  git push origin main
+   65  cd ..
+   66  git push origin main --force
+   67  DiogoGamelas
+   68  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
+   69  git add .
+   70  git commit -m "2ª tarefa concluída: pastas js e css criadas."
+   71  git push origin main 
+   72  git push origin main --force
+   73  cd ..
+   74  git clone https://github.com/DiogoGamelas/LI2025-Teste04-corrigido
+   75  cd LI2025-Teste04-corrigido
+   76  mkdir js
+   77  mkdir css
+   78  cd css
+   79  cd js
+   80  cd ..
+   81  cd js
+   82  echo "//ficheiro de script" > script.js
+   83  touch ../css/style.css
+   84  cd ..
+   85  history > cmdsTarefa2.txt
